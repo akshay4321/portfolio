@@ -155,16 +155,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Akshay, and . I recently achieved a postgraduate certificate in Computer Applications Development from Conestoga College. 
-              Additionally, I successfully completed a Master's of Science degree from J.P.Dawer(VNSGU) in India in 2019 with a degree in Information
-              Technology. I am passionate about web and software development, focusing on crafting dynamic and interactive websites. 
-              My expertise extends to designing scalable software solutions, and I am dedicated to ensuring seamless user experiences through proficient coding.
+              Hello, I'm Akshay. I recently completed a postgraduate certificate in Computer Applications Development
+              from Conestoga College. Before that, I earned a Master's degree in Information Technology from J.P. Dawer (VNSGU)
+              in India in 2019.
             </p>
 
             <p>
-              I previously worked at <a href="https://netsolitsolution.com/">Netsol IT Solutions</a>, where I contributed to projects such as SAAS 
-              Ecommerce System, Venue Booking, Appointment System, and more
-              to reach clients requirement.
+              I'm passionate about creating dynamic and user-friendly websites and software. I love designing programs that work well and make people's lives easier.
+            </p>
+            <p>
+              Previously, I worked at <a href="https://netsolitsolution.com/">Netsol IT Solutions</a>, There, I helped with projects
+              like E-commerce Systems, Venue Booking, and Appointment Systems to meet our clients' needs.
             </p>
 
             <p>Here are a few tools and technologies I’ve been working with recently:</p>

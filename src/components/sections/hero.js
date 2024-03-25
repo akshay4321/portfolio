@@ -62,16 +62,16 @@ const Hero = () => {
 
   const one = <h1 style={{ marginTop: 20 }}>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Akshay Uperia.</h2>;
-  const three = <h3 className="big-heading">I build things for the web application.</h3>;
+  const three = <h3 className="big-heading"></h3>;
   const four = (
     <>
       <p>Web Developer | Software Developer</p>
       <p>
-        Web Developer from Scarborough, ON, Canada with rock-solid experience in building complex
-        applications with modern technologies. Currently, I’m focused on building modern
-        website using PHP, ASP.NET, Node.Js and React.js.
+      Based in Scarborough, ON, Canada, I specialize in crafting web applications. With a strong background in building sophisticated
+       applications using cutting-edge technologies, I am currently dedicated to developing modern 
+       websites using PHP(Laravel), ASP.NET, Node.js, and React.js.
       </p>
-      <p>I design and code beautifully simple things, and I love what I do.</p>
+      <p>My passion lies in designing and coding elegantly simple solutions, and I genuinely enjoy the work I do.</p>
     </>
   );
   const five = (
